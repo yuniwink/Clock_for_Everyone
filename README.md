@@ -40,5 +40,5 @@
 
 #### HW 구성장비
 - Arduino Mega : GPIO 
-- RTC, 스마트모터, ESP8266 등 기능 구성용 센서
+- RTC, 스마트모터, ESP8266, e-paper 등 기능 구성용 센서
   
