@@ -1,5 +1,7 @@
 # Clock_for_Everyone (모두의 시계)
 - Project Period : 2019.4.5 ~ 2019.11.22
+- 2019 한이음 엑스포 입선
+- 특허 출원번호 : 10-2019-0169473
 
 <br>
 
@@ -19,16 +21,14 @@
 - 별도의 어플리케이션 연동이나 복잡한 설치의 과정을 요구하지 않으며, 가벼운 소재의 케이싱으로 이동 및 보관에 편리하게 제작
 
 
-| <img src="https://github.com/user-attachments/assets/c490877e-1f9e-41cd-ae58-bdd5edcfa0bf" alt="모두의 시계" width="300"> <img src="https://github.com/user-attachments/assets/7749c975-81bd-475e-bede-39ee257ec833" alt="모두의 시계_후면" width="300">| <img src="https://github.com/user-attachments/assets/027de6f1-740d-447c-83ea-18aa986712ce" alt="모두의 시계 축" width="300"> | 
-|:------:|:-----:|
-| **모두의 시계 전면, 후면** | **모두의 시계 점자 축** |
-
-
 | <img src="https://github.com/user-attachments/assets/cb75d62d-15ca-4e39-b696-6d2ace97d982" alt="모두의 시계 설명" width="450"> | <img src="https://github.com/user-attachments/assets/864c26ac-2f9c-4e59-a2d6-6899012cab4d" alt="7시 35분" width="350"> | <img src="https://github.com/user-attachments/assets/361136a4-f767-44f9-a164-6b5e10d806ac" alt="17시 45분" width="350"> |
 |:-----:|:-----:|:-----:|
 | **모두의 시계 점자부** | **7시 35분을 나타내는 예시** | **17시 45분을 나타내는 예시** |
+| <img src="https://github.com/user-attachments/assets/150957c3-8fb5-40ad-9e8d-bd02490c5e2b" alt="모두의 시계 회전" width="450"> | <img width="450" alt="정면 주석 복사본" src="https://github.com/user-attachments/assets/789c66f3-3d78-49a4-9164-1d9ad52f552a"> | <img width="450" alt="측면 주석 복사본" src="https://github.com/user-attachments/assets/969c615f-7715-4ed7-bfad-6eaf3e8611cf"> |
+| **회전 예시** | **모두의 시계 정면** | **모두의 시계 측면** |
 
 <br>
+
 
 ### 프로젝트 개발환경
 #### SW 개발환경
